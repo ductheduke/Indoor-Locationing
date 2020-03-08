@@ -19,10 +19,6 @@
 # Clear objects if necessary
 rm(list = ls())
 
-# get working directory
-getwd()
-
-
 ####################
 # Install packages #
 ####################
